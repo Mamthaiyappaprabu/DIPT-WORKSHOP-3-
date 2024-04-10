@@ -10,7 +10,7 @@ ii)Share the Python code or any other programming language used, and discuss the
 iii)How do different parameter settings impact the result?
 
 ## ANSWER :
-### i)Implement the Canny edge detection algorithm on a sample image of your choice to obtain the edges.**
+### i)Implement the Canny edge detection algorithm on a sample image of your choice to obtain the edges.
 
 
 The Canny Edge Detector algorithm is a widely-used technique in image processing for detecting and enhancing edges in digital images. It consists of several stages to find the optimal edge locations while reducing noise and maintaining the continuity of the edges. Here's a brief overview of the main steps involved in the Canny Edge Detector algorithm:

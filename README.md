@@ -1,4 +1,6 @@
 # DIPT-WORKSHOP-3-
+### NAME : MAMTHA I
+### REG NO : 212222230076
 ## Instructions for submission :
 i)Implement the Canny edge detection algorithm on a sample image of your choice to obtain the edges. 
 
